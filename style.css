@@ -1,0 +1,44 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+*{
+    font-family: 'Open Sans', sans-serif;
+   
+}
+#load{
+    text-align: center;
+    color: rgb(16, 16, 16)
+}
+
+#myProgress{
+    width:100%;
+    background-color: rgb(181, 176, 176);
+    border-radius: 50px;
+    border: 1px solid;
+    
+}
+#mybar{
+    width: 1%;
+    height: 30px;
+    background-color:rgb(97, 186, 210);
+    border-radius: 50px;
+    text-align: center;
+}
+
+.click {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    background: rgb(227, 134, 208);
+    color:white ;
+    border-radius: 30px;
+}
+.ilerle{
+    text-align: center;
+    border-radius: 50px;
+}
+.font{
+    border-radius: 50px;
+    text-align: center;
+}
+
+
+
